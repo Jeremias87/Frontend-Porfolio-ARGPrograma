@@ -19,8 +19,8 @@
     border-radius: 50%;
     flex-shrink: 0;
     margin: 20px;
-    height: 30%;
-    width: 30%;
+    height: 10%;
+    width: 25%;
     border: calc(8px + 0.2vw);
     box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
 
