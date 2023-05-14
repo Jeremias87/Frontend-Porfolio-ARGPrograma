@@ -7,7 +7,7 @@ import { Proyectos } from '../model/proyectos';
   providedIn: 'root'
 })
 export class SProyectosService {
-  expURL = 'http://localhost:8080/proylab/'
+  expURL = 'https://backend-porfolio-sd4f.onrender.com/proylab/'
 
 
   constructor(private httpClient: HttpClient) { }

@@ -9,14 +9,14 @@ import { JwtDto } from '../model/jwt-dto';
   providedIn: 'root'
 })
 export class AuthService {
-  authURL = 'http://localhost:8080/auth/';
+  authURL = 'https://backend-porfolio-sd4f.onrender.com/auth/';
   constructor(private httpClient: HttpClient) { }
 
   public nuevo(NuevoUsuario: NuevoUsuario): Observable<any> {
     return this.httpClient.post<any>(this.authURL + 'nuevo', NuevoUsuario);
   }
 
-  public login (LoginUsuario: LoginUsuario): Observable<JwtDto>{
+  public login(LoginUsuario: LoginUsuario): Observable<JwtDto> {
     return this.httpClient.post<JwtDto>(this.authURL + 'login', LoginUsuario)
   }
 }

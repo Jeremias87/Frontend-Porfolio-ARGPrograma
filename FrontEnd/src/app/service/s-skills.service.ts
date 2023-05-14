@@ -7,7 +7,7 @@ import { Skills } from '../model/skills';
   providedIn: 'root'
 })
 export class SSkillsService {
-  expURL = 'http://localhost:8080/skillslab/'
+  expURL = 'https://backend-porfolio-sd4f.onrender.com/skillslab/'
 
 
   constructor(private httpClient: HttpClient) { }
