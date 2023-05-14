@@ -6,7 +6,7 @@ https://github.com/Jeremias87/Backend-Porfolio-ARGPrograma/
 
 📝 Detalle
 
-Single Page Application realizada utilizando Html, Css, TypeScript (Todo mendiante el framework Angular) y librerías como Material UI y Circle Progress.
+Single Page Application realizada utilizando Html, Css, TypeScript (Todo mendiante el framework Angular).
 
 ✅ Acceso al porfolio
 
