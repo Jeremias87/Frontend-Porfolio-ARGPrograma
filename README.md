@@ -1,4 +1,4 @@
-🖥Portfolio web | Argentina Programa
+🖥 Portfolio web | Argentina Programa
 
 Bienvenidos al repositorio de la parte Frontend de mi trabajo final para #YoProgramo, si querés ver el backend podés entrar a Repo backend:
 
@@ -14,4 +14,4 @@ Puedes navegar por el contenido sin tener que loguearte, en este caso podrás ob
 
 ✅ CRUD
 
-Los apartados de CRUD de cada sub apartado seran disponibles solo si el usuario fue logeado correctamente, dichos apartados proporcionan al usuario las opciones de (Create, Read, Update, Delete)
+Los apartados de CRUD de cada sub apartado seran disponibles solo si el usuario fue logeado correctamente, dichos apartados proporcionan al usuario las opciones de (Create, Read, Update, Delete).
